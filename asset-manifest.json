@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/roman-transcriptions/static/css/main.33e02051.css",
+    "main.js": "/roman-transcriptions/static/js/main.9a8a09b1.js",
+    "index.html": "/roman-transcriptions/index.html",
+    "main.33e02051.css.map": "/roman-transcriptions/static/css/main.33e02051.css.map",
+    "main.9a8a09b1.js.map": "/roman-transcriptions/static/js/main.9a8a09b1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.33e02051.css",
+    "static/js/main.9a8a09b1.js"
+  ]
+}
